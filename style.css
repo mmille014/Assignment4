@@ -1,15 +1,20 @@
 body {
-	width: 100%;
-	max-width: 1024px;
+	width: 60%;
+	max-width: 500;
 	margin: 0 auto;
 	background-color: rgb(46, 110, 129);
 	font-size: 62.5%;
 }
 
-header,
-main,
+img {
+	width: 20;
+	max-width: 80%;
+
+header 
+main
 footer {
-	background-color: #ddd;
+	background-color: white
+	(230, 176, 176);
 	font-size: 1.6em;
 }
 
