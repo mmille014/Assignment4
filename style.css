@@ -1,6 +1,4 @@
-body {
-	width: 100%;
-	max-width: 50;
+body {	
 	margin: 0;
 	background-color: rgb(253, 245, 230);
 	font-size: 150%;
@@ -10,8 +8,8 @@ body {
 img {
 	width: 20px	
 	float 20px;
-	margin-right: 50px,
 	margin-left; 50px,
+	margin-right: 50px,	
 	border-radius: 5px,
 	background-color: rgb(0,0,0),
 	padding: 0.2em,
@@ -46,4 +44,12 @@ li{
 button {
 	color:green;
 	background-color: yellow;
+}
+
+.container h3{
+	text-decoration: underline;	 
+}
+#home ul {
+	list-style-type: square;
+	list-style-position: inside;
 }
